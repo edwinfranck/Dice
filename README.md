@@ -1,6 +1,15 @@
+<div align="center">
+
+![Dice Désir — aperçu de l'écran d'accueil](docs/cover.png)
+
 # 🎲 Dice Désir
 
-PWA Next.js — jeu de dés coquins pour couples adultes (18+). 100% offline, installable, mobile-first.
+**PWA Next.js — jeu de dés coquins pour couples adultes (18+).**
+100 % offline · installable · mobile-first · 18+
+
+</div>
+
+---
 
 ## ⚡ Quick start
 
